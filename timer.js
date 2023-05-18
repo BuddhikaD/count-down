@@ -8,7 +8,7 @@ const loading = document.getElementById('loading');
 
 const currentYear = new Date().getFullYear();
 
-const newYearTime = new Date(`May 24 ${currentYear} 00:00:00`);
+const newYearTime = new Date(`May 24 ${currentYear} 09:00:00`);
 
 // Set background year
 year.innerText = currentYear;
