@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+#congratulations{
+  font-size:60px ;
+  margin-bottom: 30px;
+}
+
 body {
   background-image: url('https://lh5.googleusercontent.com/zv_Rta5WGQzcnTZ9Jl7B-hE1cXG5b_3Xc_ra_-5RoRJdIiqCxTxOFNQ6i6-jSLDJz0RkHgjRdz-_tRri7zRMsgmOYwOk6qQMrvtDPkwauLL9WTF67Raubsbx_qyJXoS5RN_6qugs');
   background-repeat: no-repeat;
