@@ -9,7 +9,7 @@ const congratulations = document.getElementById('congratulations');
 
 const currentYear = new Date().getFullYear();
 
-const newYearTime = new Date(`May 25 ${currentYear} 09:00:00`);
+const newYearTime = new Date(`May 29 ${currentYear} 09:00:00`);
 
 // Set background year
 year.innerText = currentYear;
